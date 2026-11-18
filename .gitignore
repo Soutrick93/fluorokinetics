@@ -1,0 +1,16 @@
+# data (download from the Gervais et al. archive)
+*.feather
+*.csv.gz
+# outputs
+results/
+results_quick/
+results_test/
+figures/
+figures_quick/
+figures_test/
+*_archive.zip
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
